@@ -1,4 +1,4 @@
-# 松江Ruby会議06レポートテンプレート
+# 松江Ruby会議07レポートテンプレート
 
 松江Ruby会議07(2015年9月26日・土曜日)のレポートテンプレート用のディレ
 クトリです。以下に従ってhikiスタイルで記述します。
@@ -8,9 +8,10 @@
 
 その他参考リンク。
 
-* 前回: matsuerb/matrk05#20
+* 前回: https://github.com/matsuerb/matrk06/tree/master/report
 
 * 過去のレポート:
+  * http://magazine.rubyist.net/?0050-MatsueRubyKaigi05
   * http://magazine.rubyist.net/?0040-MatsueRubyKaigi04Report
   * http://magazine.rubyist.net/?0035-MatsueRubyKaigi03Report
   * http://magazine.rubyist.net/?0034-MatsueRubyKaigi02Report
