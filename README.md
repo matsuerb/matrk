@@ -6,8 +6,8 @@
 
 基本的にはWikiとIssuesぐらいしか利用しません。
 
-* [Wiki](https://github.com/matsuerb/matrk06/wiki)
-* [Issues](https://github.com/matsuerb/matrk06/issues)
+* [Wiki](https://github.com/matsuerb/matrk07/wiki)
+* [Issues](https://github.com/matsuerb/matrk07/issues)
 
 ふつうのWikiや掲示板のような形で利用して、情報共有をしていきましょう。
 
