@@ -1,13 +1,13 @@
-# 松江Ruby会議07
+# 松江Ruby会議
 
-松江Ruby会議07(2015年9月26日・土曜日)の情報共有用です。
+松江Ruby会議の情報共有用です。
 
 ## ちょっとした説明
 
 基本的にはWikiとIssuesぐらいしか利用しません。
 
-* [Wiki](https://github.com/matsuerb/matrk07/wiki)
-* [Issues](https://github.com/matsuerb/matrk07/issues)
+* [Wiki](https://github.com/matsuerb/matrk/wiki)
+* [Issues](https://github.com/matsuerb/matrk/issues)
 
 ふつうのWikiや掲示板のような形で利用して、情報共有をしていきましょう。
 
