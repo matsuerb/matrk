@@ -41,7 +41,7 @@ Array#mapは、配列の各要素を取り出してブロック内で処理し�
 
 答え: 3
 
-参照：https://octoverse.github.com/
+参照：https://octoverse.github.com/2017/
 １位はJavascript、２位はPython、３位はJava、そして４位がRubyとなっています。
 
 ### Q4. did_you_meanで見つけることができないのは？（ただし、did_you_mean 1.2.0とする。）
